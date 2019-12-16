@@ -2,7 +2,6 @@
 
 #include <string>
 #include <fstream>
-#include <array>
 #include <cstring> // for memset
 
 
